@@ -1,0 +1,1 @@
+before swapping:[45, 6, 7, 34, 67, 6, 1, 9, 0, 2, 8, 77]after swapping:[0, 1, 2, 6, 6, 7, 8, 9, 34, 45, 67, 77]before swapping:[1, 2, 5, 3, 7, 9, 19, 13]after swapping:[19, 13, 9, 7, 5, 3, 2, 1]
